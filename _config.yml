@@ -6,8 +6,8 @@
 title: ApiNote Beekeeper diary app 
 email: pedrosstudiomobileapps@gmail.com
 description: ApiNote free to use mobile app for beekeepers.
-baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/beekeeper-diary" # the subpath of your site, e.g. /blog
+url: "https://petrdrabek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 twitter_username: sandochee
 github_username:  sandoche

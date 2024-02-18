@@ -1,18 +1,13 @@
-name: ApiNote Beekeper diary book
-description: ApiNote is a user-friendly mobile app for tracking apiaries, hives, honey harvests, inspections, feedings and more.
-full_description: 'Apinote is a user-friendly application for beekeepers that helps you easily record the activities around your hives. Record your apiaries, hives, inspections, honey harvests, feedings and treatments. Best beekeeper diary, hive manager, apiary book app!
-Taking notes while beekeeping is important for a better overview of the beekeeper. During the inspection, you can view the previous status of the bee colony in the application, better organize and plan your work. The application will also provide clear statistics from the saved data, so the beekeeper will have an even better overview of his work.<br>
+name: Mobile App Name
+description: A super tagline for the mobile app
+full_description: 'A more complete description of the mobile app<br>
 <br>With a lot of features:
-<br>- Simple recording of beekeeping work and the status of bee colonies
-<br>- Clear and complex statistics
-<br>- Current weather at the apiary
-<br>- Securely stored data in the cloud
-<br>- The possibility of sharing one account between several beekeepers in one family or company
-<br>- QR codes generator & reader for hives
-<br>- Map of apiaries with fly range distance of bees'
-android: https://play.google.com/store/apps/details?id=pedrosstudio.apinote
-iOS: false
-web: false
+<br>- Feature 1
+<br>- Feature 2
+<br>- Feature 3'
+android: https://telegra.ph/Replace-this-link-07-23
+iOS: https://telegra.ph/Replace-this-link-07-23
+web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
   - 1.png
   - 2.png
